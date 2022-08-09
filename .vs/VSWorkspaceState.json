@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\android",
+    "\\android\\app",
+    "\\screens",
+    "\\screens\\auth",
+    "\\screens\\main",
+    "\\utils"
+  ],
+  "SelectedNode": "\\android\\app\\google-services.json",
+  "PreviewInSolutionExplorer": false
+}
